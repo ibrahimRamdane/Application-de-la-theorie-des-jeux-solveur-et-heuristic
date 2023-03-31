@@ -1,5 +1,4 @@
-# Projet
-Théorie des jeux et python
+# Théorie des jeux et python
 
 ## Description
 Ce dossier contient 2 projets applicant des outils de la théorie des jeux pour la résolution de problème.
